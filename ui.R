@@ -55,7 +55,7 @@ dashboardPage(
                             outputId = "income", width = 3 
                         )
                     )
-                ),
+                ), 
                 
                 fluidRow(
                   
